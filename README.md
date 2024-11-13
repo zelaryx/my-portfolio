@@ -1,4 +1,5 @@
-
+# Alyssa's Note
+Hi! I got the template for this portfolio at [this site](https://github.com/0x1Luffy/myportfolio). Thank you so much! Below is the original README file that was provided.
 
 ```markdown
 # Portfolio Website
